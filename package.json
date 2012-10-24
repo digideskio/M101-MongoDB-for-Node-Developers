@@ -1,0 +1,16 @@
+{
+  "name": "10Gen-Blog",
+  "version": "0.0.1",
+  "author": "You Name",
+  "keywords": ["education", "10gen", "mongo"],
+  "description": "10Gen M101 MongoDB for Node.js Developers",
+  "scripts": {
+    "start": "node blog"
+  },
+  "dependencies": {
+    "express": "3.0.0",
+    "ejs": "*",
+    "stylus": "*",
+    "mongodb":"*"
+  }
+}

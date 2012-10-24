@@ -30,6 +30,7 @@ function find_numbers(){
             console.log("The answer to Homework One, Problem 2 is " + magic);
         }
 
+        dbconn.close();
 
     });
 }

@@ -3,7 +3,7 @@
 M101-MongoDB-for-Node-Developers
 ==========
 
-This is a work in progress and feel free to contribute.
+This is a work in progress feel free to contribute.
 
 ## Requirements:
 
@@ -28,3 +28,6 @@ This is a work in progress and feel free to contribute.
                  open new console window
                  type "curl http://localhost:8080/hw1/50" to see the answer
                  ctrl+c stops the server
+
+
+##All answers are checked against the official 10Gen Python version.

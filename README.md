@@ -16,7 +16,7 @@ This is a work in progress and feel free to contribute.
 ## Setup:
 
     1. Clone the repository on your computer
-    2. type node install -d in the cloned directory
+    2. type "npm install" in the cloned directory
 
     Node will install all the files you need.
 

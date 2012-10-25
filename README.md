@@ -22,4 +22,8 @@ This is a work in progress and feel free to contribute.
 
 ## Week 1
 
-    type "node hw1-2.js"  to see the answer
+    Exercise 2 - type "node hw1-2.js"  to see the answer
+
+    Exercise 3 - type "node hw1-3.js"
+                 type "curl http://localhost:8080/hw1/50" to see the answer
+                 ctrl+c stops the server
